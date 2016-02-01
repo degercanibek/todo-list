@@ -1,4 +1,4 @@
 # todo-list
 Simple TODO list app with Meteor
-This is a hello world type applicaiton for Meteor platform.
+This is a hello world type application for Meteor platform.
 Cheers
